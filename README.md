@@ -22,8 +22,8 @@ Hi,I'm Chandan Prakash🙌, a Full Stack Developer,  and Cloud Enthusiast. Apart
 
 **Personal Stuffs:**
 
-- 🔭 I’m currently working as a full time Software Engineer at Oracle Cloud.
-- 🌱 I’m currently learning Golang.
+- 🔭 I’m a CS grad student at Georgia Tech and a part-time front-end developer (Graduate Research Assistant) at Inet Lab.
+- 🌱 I am interested in improving user experience via automating complex workflows and developing UI for efficient softwares.
 - ⚡ Check out my recent [Blogs](https://medium.com/@abchandan11)
 - 📝[Portfolio](https://sites.gatech.edu/abchandan11/)
 
