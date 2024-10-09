@@ -29,6 +29,8 @@ Hi,I'm Chandan Prakash🙌, a Full Stack Developer,  and Cloud Enthusiast. Apart
 
 
 **Community**
+- IODA - Internet Outage Detection and Analysis
+- Georgia Tech - Internet Intelligence Lab
 - Google Summer of Code 2021
 - Programming Club IIT Mandi
 
