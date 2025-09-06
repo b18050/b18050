@@ -4,37 +4,13 @@
 <br/>
 
 
-<a href="https://www.linkedin.com/in/chandan-prakash-a25a52186/">
+<a href="https://www.linkedin.com/in/abchandan11/">
 <img align="left" alt="Chandan Prakash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@abchandan11">
-<img align="left" alt="Chandan Prakash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<br />
-
-<br />
-
-Hi,I'm Chandan Prakash🙌, a software engineer. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-
-**Personal Stuffs:**
 
 - 🔭 I’m a CS grad student at Georgia Tech specializing in Machine Learning, previously worked at Goldma Sachs, Oracle.
 - 🌱 I am interested in improving user experience via automating complex workflows and visualizing things using latest tech.
-- ⚡ Check out my recent [Blogs](https://medium.com/@abchandan11)
 - 📝[Portfolio](https://sites.gatech.edu/abchandan11/)
-
-
-**Community**
-- IODA - Internet Outage Detection and Analysis
-- Georgia Tech - Internet Intelligence Lab
-- Google Summer of Code 2021
-- Programming Club IIT Mandi
-
-**Languages and Tools:**
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
