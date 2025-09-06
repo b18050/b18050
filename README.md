@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hello World 👋 It's [Chandan!](https://b18050.github.io/portfolio/)
+### Hello World 👋 It's [Chandan!](https://sites.gatech.edu/abchandan11/)
 
 <br/>
 
