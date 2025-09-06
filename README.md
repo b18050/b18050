@@ -14,7 +14,7 @@
 
 <br />
 
-Hi,I'm Chandan Prakash🙌, a Full Stack Developer,  and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Chandan Prakash🙌, a software engineer. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -22,8 +22,8 @@ Hi,I'm Chandan Prakash🙌, a Full Stack Developer,  and Cloud Enthusiast. Apart
 
 **Personal Stuffs:**
 
-- 🔭 I’m a CS grad student at Georgia Tech and a part-time front-end developer (Graduate Research Assistant) at Inet Lab.
-- 🌱 I am interested in improving user experience via automating complex workflows and developing UI for efficient softwares.
+- 🔭 I’m a CS grad student at Georgia Tech specializing in Machine Learning, previously worked at Goldma Sachs, Oracle.
+- 🌱 I am interested in improving user experience via automating complex workflows and visualizing things using latest tech.
 - ⚡ Check out my recent [Blogs](https://medium.com/@abchandan11)
 - 📝[Portfolio](https://sites.gatech.edu/abchandan11/)
 
